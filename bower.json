@@ -1,0 +1,21 @@
+{
+  "name": "Directorio",
+  "homepage": "https://github.com/NatolioMaposse-Ekitalci/Ekitalci-WebPage-Online-Repository",
+  "authors": [
+    "Natolio Matola <discipuloaprovado@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
